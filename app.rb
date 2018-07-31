@@ -8,7 +8,10 @@ class App < Sinatra::Base
     "Emily"
   end
   get '/hometown' do
+  "New York"
   end 
-  get '/'
+  get '/Favorite song'
+  "Thru these tears"
+  
 end
 
