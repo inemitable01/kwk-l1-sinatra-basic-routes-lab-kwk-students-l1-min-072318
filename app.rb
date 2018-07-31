@@ -12,6 +12,6 @@ class App < Sinatra::Base
   end 
   get '/Favorite song'
   "Thru these tears"
-  
+end 
 end
 
